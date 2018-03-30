@@ -25,7 +25,7 @@ ul li a {
 	color: white;
 	display: block;
 }
-ul li a:click {
+ul li a::hover, ul li:active{
 		background:silver;
 }
 ul li ul li {
